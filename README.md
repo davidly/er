@@ -1,9 +1,10 @@
 # er
 Edited Raw. Windows command line tool for copying RAW image files edited in Adobe produts including Lightroom.
 
-I have an old 4TB external drive. My RAW files consume about 5.4TB. But I've only edited about 2TB of those files. This
-app enables me to backup those RAW files I've actually edited along with those Lightroom edits. It looks at the .xmp
-files I've configured Lightroom to create, extracts the RAW filename, then copies both to the destination location.
+I have an old 4TB external drive I wanted to use for backup. My RAW files consume about 5.4TB. But I've only edited 
+about 2TB of those files. This app enables me to backup those RAW files I've actually edited along with those 
+Lightroom edits. It looks at the .xmp files I've configured Lightroom to create, extracts the RAW filename, then
+copies both to the destination location.
 
 
 Build with your favorite version of .net. For example:
