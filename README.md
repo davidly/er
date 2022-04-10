@@ -1,5 +1,5 @@
 # er
-Edited Raw. Windows command line tool for copying RAW image files edited in Adobe produts including Lightroom.
+Edited Raw. Windows command line tool for copying RAW image files edited in Adobe products including Lightroom.
 
 I have an old 4TB external drive I wanted to use for backup. My RAW files consume about 5.4TB. But I've only edited 
 about 2TB of those files. This app enables me to backup those RAW files I've actually edited along with those 
