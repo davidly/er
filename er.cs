@@ -95,8 +95,8 @@ class EditedRaws
 
 #if true // Crack the .xmp file and look for the raw file name. Only works for Adobe-generated .xmp files.
 
-                // Two patterns supported:
-                //    crs:RawFileName="P1034659.RW2">
+                // Two are patterns supported:
+                //    crs:RawFileName="P1034659.RW2"
                 //    <crs:RawFileName>P1000458.RW2</crs:RawFileName>
 
                 string xmpText = File.ReadAllText( fullPath );
